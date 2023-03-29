@@ -1,1 +1,1 @@
-oibsip_1calculator
+calculator
